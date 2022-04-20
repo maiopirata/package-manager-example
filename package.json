@@ -1,0 +1,23 @@
+{
+  "name": "package-manager-example",
+  "version": "1.0.0",
+  "description": "This is a repo for the codealong during the course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiopirata/package-manager-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiopirata/package-manager-example/issues"
+  },
+  "homepage": "https://github.com/maiopirata/package-manager-example#readme",
+  "dependencies": {
+    "chart.js": "^3.7.1"
+  }
+}
